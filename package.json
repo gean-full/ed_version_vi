@@ -1,0 +1,7 @@
+{
+  "name": "visioindustria",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Protótipo experimental de orientação por áudio com câmera (sem dependências de execução; testes com node --test).",
+  "scripts": { "test": "node --test visioindustria.test.js avaliacao/avaliacao.test.js" }
+}
